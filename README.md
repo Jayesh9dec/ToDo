@@ -13,6 +13,7 @@ scheduling them.
 #Validations:-
 1) You cant select past time.
 2) You cant save task with empty tasks details.
+3) Toasts used for affirmation of tasks is created.
 
 #Languages used:- kotlin, java
 This app uses the RoomDB jetpack component to store the tasks in memory.
