@@ -15,6 +15,4 @@ scheduling them.
 2) You cant save task with empty tasks details.
 
 #Languages used:- kotlin, java
-#Other tech used:-
-1) Jetpack component RoomDB for data storage.
-2) 
+This app uses the RoomDB jetpack component to store the tasks in memory.
